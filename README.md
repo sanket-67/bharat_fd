@@ -10,8 +10,8 @@ I would love the opportunity to grow within the company and refine my skills fur
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bharat_fd.git
-   cd bharat_fd
+   git clone git init https://github.com/sanket-67/bharat_fd.git
+
    ```
 
 2. Install dependencies:
